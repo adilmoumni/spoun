@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spoon It</string>
+    <string name="facebook_app_id">244271713486557</string>
+    <string name="fb_login_protocol_scheme">fb244271713486557</string>
+    <string name ="default_notification_channel_id">spoon it</string>>
+</resources>

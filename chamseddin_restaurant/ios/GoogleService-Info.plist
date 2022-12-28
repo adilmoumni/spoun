@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>334217989754-555p1252huloii8l4ohi5j2lsqodsf4e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.334217989754-555p1252huloii8l4ohi5j2lsqodsf4e</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>334217989754-2dn208lltkaql02cn84evjttvrje60ac.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDZbctoIvWxy3UylXzlVxYs_xoMqv7glY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>334217989754</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.vinove.spoonit</string>
+	<key>PROJECT_ID</key>
+	<string>spooneat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spooneat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:334217989754:ios:efd67d5d5605757e2db5c3</string>
+	<key>DATABASE_URL</key>
+	<string>https://spooneat.firebaseio.com</string>
+</dict>
+</plist>

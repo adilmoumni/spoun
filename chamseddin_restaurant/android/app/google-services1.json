@@ -1,0 +1,243 @@
+{
+  "project_info": {
+    "project_number": "334217989754",
+    "firebase_url": "https://spooneat.firebaseio.com",
+    "project_id": "spooneat",
+    "storage_bucket": "spooneat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217989754:android:86469bded5c3b2d62db5c3",
+        "android_client_info": {
+          "package_name": "com.smartersvision.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217989754-eorpeg3ftf40ljr3qbpleg7uahpoiacr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.food_delivery_app",
+            "certificate_hash": "eef441d3a50c70101aa30098fab44d9264997941"
+          }
+        },
+        {
+          "client_id": "334217989754-gklrdtcgemcftpfegdnoa6peva2e92ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.food_delivery_app",
+            "certificate_hash": "d9039ae5e3351ef38aa06bc2178eb1b908d80426"
+          }
+        },
+        {
+          "client_id": "334217989754-i53sq0gjathvpf2q44v1s6nl29im2qua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.food_delivery_app",
+            "certificate_hash": "8d53275580095828891a55735e9e02000308e3c5"
+          }
+        },
+        {
+          "client_id": "334217989754-p5v9en6sj3pdkiel2523gh69c2dit3v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.food_delivery_app",
+            "certificate_hash": "5fcbc374b60a4788c2c0a9055abd34a7c0f4c1dd"
+          }
+        },
+        {
+          "client_id": "334217989754-efnvk7cedvgof8nbbiq017j4eujk9us1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmmFLXYWebHn0B_G-XWTPL6iO5na0Llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217989754-3hi9avm50md1gil9dnhcu6gpssqirkdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334217989754-555p1252huloii8l4ohi5j2lsqodsf4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinove.spoonit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217989754:android:3ecc345bf1b2a8ba",
+        "android_client_info": {
+          "package_name": "com.spooneat.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217989754-8ft2tgma3g5118r4h3vt2haoelhd0881.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.deliver",
+            "certificate_hash": "8cf37960e11bc0f20d54fc52f14aae89f6bf6937"
+          }
+        },
+        {
+          "client_id": "334217989754-apebjmpakshnk345c731jeo9knjs10da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.deliver",
+            "certificate_hash": "e90b08dd67117b152f30a7c652e642c767552347"
+          }
+        },
+        {
+          "client_id": "334217989754-efnvk7cedvgof8nbbiq017j4eujk9us1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmmFLXYWebHn0B_G-XWTPL6iO5na0Llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217989754-3hi9avm50md1gil9dnhcu6gpssqirkdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334217989754-555p1252huloii8l4ohi5j2lsqodsf4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinove.spoonit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217989754:android:d6279225ba605524",
+        "android_client_info": {
+          "package_name": "com.spooneat.outlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217989754-43pnnoh6cu4rhfboicv2c57v93d4jsdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.outlet",
+            "certificate_hash": "08bc2b2e6e1fb4af0330b9f78eac517c50656d4e"
+          }
+        },
+        {
+          "client_id": "334217989754-6ulpgr3ft54s2b5bpomgp0v7pdg85ct4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.outlet",
+            "certificate_hash": "8cf37960e11bc0f20d54fc52f14aae89f6bf6937"
+          }
+        },
+        {
+          "client_id": "334217989754-efnvk7cedvgof8nbbiq017j4eujk9us1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmmFLXYWebHn0B_G-XWTPL6iO5na0Llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217989754-3hi9avm50md1gil9dnhcu6gpssqirkdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334217989754-555p1252huloii8l4ohi5j2lsqodsf4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinove.spoonit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334217989754:android:f21c777c7f5ddcfa",
+        "android_client_info": {
+          "package_name": "com.spooneat.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334217989754-n56m68hptjh0qj7gi019m2f899r3gva5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.user",
+            "certificate_hash": "8cf37960e11bc0f20d54fc52f14aae89f6bf6937"
+          }
+        },
+        {
+          "client_id": "334217989754-naasiov5c3l4inbfienht0fi6tr3t345.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.user",
+            "certificate_hash": "a499ffb219de6d6dc10917f8aefdf366ed45f250"
+          }
+        },
+        {
+          "client_id": "334217989754-rkbmnjrdm9v8lmfngmvncullpqnu8j9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spooneat.user",
+            "certificate_hash": "5b0148fec0f507b879605089b38d7f3370fd029a"
+          }
+        },
+        {
+          "client_id": "334217989754-efnvk7cedvgof8nbbiq017j4eujk9us1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmmFLXYWebHn0B_G-XWTPL6iO5na0Llk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334217989754-3hi9avm50md1gil9dnhcu6gpssqirkdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "334217989754-555p1252huloii8l4ohi5j2lsqodsf4e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vinove.spoonit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

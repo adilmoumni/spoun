@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78669155004",
+    "project_id": "noti-e890a",
+    "storage_bucket": "noti-e890a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78669155004:android:f1b9119db25918aa791eb9",
+        "android_client_info": {
+          "package_name": "com.smartersvision.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78669155004-c2986d8pn8ot235pjn2ovdugkpkjm600.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEwtsVTvIxxX82c6dPYcI-Qa90IDED6Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78669155004-c2986d8pn8ot235pjn2ovdugkpkjm600.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
